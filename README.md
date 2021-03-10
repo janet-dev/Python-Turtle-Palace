@@ -6,4 +6,4 @@ Have already started with the battlements.
 
 See the accompanying video.
 
-https://github.com/janet-dev/Python-Turtle-Palace
+https://www.youtube.com/watch?v=mlFtJHy4DMg
